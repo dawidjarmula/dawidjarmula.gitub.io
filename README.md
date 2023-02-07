@@ -1,3 +1,3 @@
-# dawidjarmula.gitub.io
+# dawidjarmula.github.io
 
 **dawid jarmula
